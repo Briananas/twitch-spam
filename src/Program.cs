@@ -49,7 +49,7 @@ namespace twitch_spam
 
         static void Main(string[] args)
         {
-            Console.Title = "Twitch Spammer v0.1 by Brian (darkbyte.tk)";
+            Console.Title = "Twitch Spammer v0.1 by Brian";
 
          
 
